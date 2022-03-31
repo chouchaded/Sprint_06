@@ -5,6 +5,10 @@ Le site est accessible à cette adressse :
 <a target="_blank" href="http://subirats-yannick.sprint-06.sc1lgvu9627.universe.wf/">Sprint 06 VAP FACTORY</a>
 
 <h3>User story</h3>
+Gestion et référencement de stock de E-Cigarette et de E-Liquide.
+Avec création, modification, prix achat/vente et stock de chaque article.
+
+<h3>Mode d'emploi</h3>
 <h4>Page d’accueil :</h4>
 - si il n’y a pas de tableau avec des références, cliquez sur le bouton vert en haut à droite « Ajouter une référence »
 Puis une nouvelle page apparaît « Créer un enregistrement »
