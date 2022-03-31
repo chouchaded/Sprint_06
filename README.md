@@ -11,7 +11,7 @@ Puis une nouvelle page apparaît « Créer un enregistrement »
  avec plusieurs champs à renseigner :
 Référence 
 Nom de l’article
-type d’article : 2 choix possible E-Cigarette et E-Liquide (/!\ attention ce choix est irréversible après enregistrement)
+type d’article : 2 choix possible E-Cigarette et E-Liquide <b>(/!\ attention ce choix est irréversible après enregistrement)</b>
 Description de l’article
 Prix achat
 Prix vente
