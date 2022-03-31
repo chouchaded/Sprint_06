@@ -182,7 +182,7 @@ if (isset($_POST["id"]) && !empty($_POST["id"])) {
         <div class="container-fluid text-light">
             <div class="row">
                 <div class="col-md-12">
-                    <h2 class="mt-5">Mise à jour de l'enregistremnt</h2>
+                    <h2 class="mt-5">Mise à jour de l'enregistrement</h2>
                     <p>Modifier les champs et enregistrer</p>
                     <form action="<?php echo htmlspecialchars(basename($_SERVER['REQUEST_URI'])); ?>" method="post">
                         <div class="form-group">
